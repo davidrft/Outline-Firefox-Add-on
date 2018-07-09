@@ -1,0 +1,1 @@
+# Outline-Firefox-Add-on
